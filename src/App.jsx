@@ -39,49 +39,94 @@ const DASH_PERIOD       = 60;
 // ============================================================
 const QUESTIONS = [
   {
-    question: "What year did Uber first\nlaunch in Vietnam?",
-    options: ["2013", "2014", "2015", "2016"],
-    correct: 1,
-  },
-  {
-    question: "Which city was Uber's\nfirst Vietnam launch city?",
-    options: ["Hanoi", "Da Nang", "Ho Chi Minh City", "Hue"],
-    correct: 2,
-  },
-  {
-    question: "What core tech does Uber\nuse for driver-rider matching?",
-    options: ["Manual dispatch", "AI / ML algorithms", "GPS only", "Call center"],
-    correct: 1,
-  },
-  {
-    question: "Which Uber product\nfocuses on food delivery?",
-    options: ["Uber X", "Uber Pool", "Uber Eats", "Uber Freight"],
-    correct: 2,
-  },
-  {
-    question: "Uber was founded\nin which year?",
-    options: ["2007", "2008", "2009", "2010"],
-    correct: 2,
-  },
-  {
-    question: "How many countries does\nUber operate in (approx)?",
-    options: ["30+", "50+", "70+", "100+"],
-    correct: 2,
-  },
-  {
-    question: "What does 'surge pricing'\nmean in Uber's model?",
+    question: "Vietnam's globalization level\nin 2014 vs world average?",
     options: [
-      "Fixed flat rate",
-      "Higher prices during\nhigh demand",
-      "Lower prices at night",
-      "Discount for long trips",
+      "Well below average",
+      "Slightly below average",
+      "Slightly above average",
+      "Far above average",
+    ],
+    correct: 2,
+  },
+  {
+    question: "Dominant form of urban\nmobility in Vietnam?",
+    options: [
+      "Private cars",
+      "Public transport",
+      "Motorbikes / scooters",
+      "Ride-hailing cars",
+    ],
+    correct: 2,
+  },
+  {
+    question: "Vietnam looks attractive.\nWhat is Uber's real challenge?",
+    options: [
+      "Entering the market",
+      "Building technology",
+      "Local product-market fit",
+      "Finding drivers",
+    ],
+    correct: 2,
+  },
+  {
+    question: "Biggest worry before\nentering Vietnam?",
+    options: [
+      "Geography & resources",
+      "Institutions & infrastructure",
+      "Political-economic conditions",
+      "None — Rosenberg irrelevant",
     ],
     correct: 1,
   },
   {
-    question: "Which of these is an\nUber mobility product?",
-    options: ["Uber Moto", "Uber Fly", "Uber Sea", "Uber Rail"],
-    correct: 0,
+    question: "What was Uber's\nentry mode in Vietnam?",
+    options: [
+      "Brownfield acquisition",
+      "Equity joint venture",
+      "Greenfield, asset-light",
+      "Licensing agreement",
+    ],
+    correct: 2,
+  },
+  {
+    question: "Which organizational logic\ndescribes Uber in Vietnam?",
+    options: [
+      "Multinational enterprise",
+      "Free-standing company",
+      "Global enterprise",
+      "Transnational network",
+    ],
+    correct: 2,
+  },
+  {
+    question: "What was Uber mainly\nseeking in Vietnam?",
+    options: [
+      "Natural resources",
+      "Market opportunities",
+      "Strategic assets",
+      "Production efficiency",
+    ],
+    correct: 1,
+  },
+  {
+    question: "Where does Uber fit\nin the GPR Matrix (Vietnam)?",
+    options: [
+      "Friendly Fire",
+      "Global Villains",
+      "Troy Syndrome",
+      "Valley of Josaphat",
+    ],
+    correct: 3,
+  },
+  {
+    question: "Uber's 2018 exit from\nVietnam should be seen as:",
+    options: [
+      "Sudden collapse",
+      "Political decision",
+      "Strategic retreat",
+      "Humanitarian withdrawal",
+    ],
+    correct: 2,
   },
 ];
 
