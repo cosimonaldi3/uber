@@ -49,6 +49,26 @@ const QUESTIONS = [
     correct: 2,
   },
   {
+    question: "Biggest worry before\nentering Vietnam?",
+    options: [
+      "Geography & resources",
+      "Institutions & infrastructure",
+      "Political-economic conditions",
+      "None — Rosenberg irrelevant",
+    ],
+    correct: 1,
+  },
+  {
+    question: "Where does Uber fit\nin the GPR Matrix (Vietnam)?",
+    options: [
+      "Friendly Fire",
+      "Global Villains",
+      "Troy Syndrome",
+      "Valley of Josaphat",
+    ],
+    correct: 3,
+  },
+  {
     question: "Dominant form of urban\nmobility in Vietnam?",
     options: [
       "Private cars",
@@ -68,16 +88,9 @@ const QUESTIONS = [
     ],
     correct: 2,
   },
-  {
-    question: "Biggest worry before\nentering Vietnam?",
-    options: [
-      "Geography & resources",
-      "Institutions & infrastructure",
-      "Political-economic conditions",
-      "None — Rosenberg irrelevant",
-    ],
-    correct: 1,
-  },
+
+
+  
   {
     question: "What was Uber's\nentry mode in Vietnam?",
     options: [
@@ -108,16 +121,7 @@ const QUESTIONS = [
     ],
     correct: 1,
   },
-  {
-    question: "Where does Uber fit\nin the GPR Matrix (Vietnam)?",
-    options: [
-      "Friendly Fire",
-      "Global Villains",
-      "Troy Syndrome",
-      "Valley of Josaphat",
-    ],
-    correct: 3,
-  },
+
   {
     question: "Uber's 2018 exit from\nVietnam should be seen as:",
     options: [
